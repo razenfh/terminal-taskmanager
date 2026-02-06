@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "DostQCZfkwo=",
+  "success": true,
+  "projectFilePath": "/home/razen/,,,/code/task manger/task manger/task manger.csproj",
+  "expectedPackageFiles": [
+    "/home/razen/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/home/razen/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.22/microsoft.netcore.app.runtime.linux-x64.8.0.22.nupkg.sha512",
+    "/home/razen/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "/home/razen/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.22/microsoft.aspnetcore.app.runtime.linux-x64.8.0.22.nupkg.sha512",
+    "/home/razen/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.22/microsoft.netcore.app.host.linux-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
